@@ -5,7 +5,7 @@
 	  <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 	  <Copyright>Copyright ©  2019-2020</Copyright>
       <ProjectGuid>f76082b9-33c6-4e13-baaa-071ac7e53d7b</ProjectGuid>
-      <Version>0.9.15</Version>
+      <Version>0.9.17</Version>
   </PropertyGroup>
 
   <ItemGroup>
